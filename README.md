@@ -40,7 +40,7 @@ V
 git clone https://github.com/RafaPython-Creative/SecurePassGen
 cd secure-pass
 pip install -r requirements.txt
-python secure_pass.py
+python SecurePassGen.py
 
 👾 Créditos
 Desenvolvido com ⚡ por Rafael Oliveira
@@ -90,7 +90,7 @@ You generate a password and face digital enemies based on the password's strengt
 git clone https://github.com/RafaPython-Creative/SecurePassGen
 cd secure-pass
 pip install -r requirements.txt
-python secure_pass.py
+python SecurePassGen.py
 
 👾 Credits
 Developed with ⚡ by Rafael Oliveira
