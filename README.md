@@ -13,6 +13,8 @@ Secure Pass é um jogo RPG educativo que ensina sobre segurança de senhas atrav
 ╚══════╝╚══════╝ ╚═════╝ ╚═════╝ ╚═╝  ╚═╝╚══════╝    ╚═╝     ╚═╝  ╚═╝╚══════╝╚══════╝
 ```
 
+![RPG Banner](https://tenor.com/pt-PT/view/hacker-computer-cyberpunk-hacking-dark-gif-20517262)
+
 🔐 Secure Pass
 
 Um gerador de senhas em Python com um modo de jogo divertido: derrote os inimigos **Trasher** e **Hacker** usando senhas fortes!
