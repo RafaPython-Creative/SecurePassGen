@@ -1,2 +1,7 @@
-pyfiglet
-colorama
+# Dependências para Secure Pass RPG - Hacker Edition
+pygame>=2.0.0
+
+# Compatibilidade:
+# - Python 3.7+
+# - Windows 10/11, macOS, Linux
+# - Pygame 2.5.0 ou superior 
