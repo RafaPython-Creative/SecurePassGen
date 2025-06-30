@@ -13,7 +13,7 @@ Secure Pass é um jogo RPG educativo que ensina sobre segurança de senhas atrav
 ╚══════╝╚══════╝ ╚═════╝ ╚═════╝ ╚═╝  ╚═╝╚══════╝    ╚═╝     ╚═╝  ╚═╝╚══════╝╚══════╝
 ```
 
-![Hacker]([https://tenor.com/pt-PT/view/hacker-computer-cyberpunk-hacking-dark-gif-20517262](https://imgur.com/a/Oo4c7Sr))
+![Hacker](https://tenor.com/pt-PT/view/hacker-computer-cyberpunk-hacking-dark-gif-20517262](https://imgur.com/a/Oo4c7Sr))](https://i.imgur.com/aMUR0nh.gif)
 
 🔐 Secure Pass
 
